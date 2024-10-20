@@ -12,4 +12,4 @@ My learning journey and self-study of Signals and Systems, based on:
 Table of contents:
 MIT RES.6-007 | Signals and Syatems 2nd ed
 ---|---
-Lecture 1, Introduction | Chapter 01: Signals and Systems
+Lecture 1, Introduction <br>Lecture 2, Signals and Systems: Part 1 <br>Lecture 3, Signals and Systems: Part 2 | Chapter 01: Signals and Systems
