@@ -2,7 +2,7 @@
 My learning journey and self-study of Signals and Systems, based on:
 
 - **MIT OpenCourseWare RES.6-007: Signals and Systems, Spring 2011**\
-  https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/
+  https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/ \
   https://www.youtube.com/playlist?list=PLwAFU5NYqTLIfpznYVAofAo5UxbbWmXfr
   
 - **Signals and Systems, Second Edition by Alan V. Oppenheim**
